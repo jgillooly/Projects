@@ -9765,6 +9765,22 @@
     "Items": [
       {
         "RomFile": {
+          "Path": "C:\\Users\\Joshua\\Documents\\NES-Dev\\Projects\\src/game.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "C:\\Users\\Joshua\\Documents\\NES-Dev\\Projects\\src/controller.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
           "Path": "C:\\Users\\Joshua\\Documents\\NES-Dev\\Projects\\src/sprites.nes",
           "InnerFile": "",
           "InnerFileIndex": 0
@@ -9847,8 +9863,8 @@
       "Height": 436
     },
     "WindowLocation": {
-      "X": 764,
-      "Y": 345
+      "X": 999,
+      "Y": 428
     },
     "WindowIsMaximized": false
   },
